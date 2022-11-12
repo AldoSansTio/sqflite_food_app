@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047276146516",
+    "project_id": "katalog-makanan-6b583",
+    "storage_bucket": "katalog-makanan-6b583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047276146516:android:7128e661e5a81f69b002c1",
+        "android_client_info": {
+          "package_name": "com.zeekands.firebase_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047276146516-5698s3fb5hq1fb7fl7ipk4idgrvdnrki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDXXF9rQdYFsK9AdWZ2sG_GsBfuNDhcCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047276146516-5698s3fb5hq1fb7fl7ipk4idgrvdnrki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
